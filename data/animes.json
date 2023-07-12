@@ -1,0 +1,182 @@
+{
+  "1": {
+    "nombre": "Akira",
+    "genero": "Seinen",
+    "año": "1988",
+    "autor": "Katsuhiro Otomo"
+  },
+  "2": {
+    "nombre": "Dragon Ball",
+    "genero": "Shonen",
+    "año": "1986",
+    "autor": "Akira Toriyama"
+  },
+  "3": {
+    "nombre": "Sailor Moon",
+    "genero": "Shojo",
+    "año": "1992",
+    "autor": "Naoko Takeuchi"
+  },
+  "4": {
+    "nombre": "Naruto",
+    "genero": "Shonen",
+    "año": "2002",
+    "autor": "Masashi Kishimoto"
+  },
+  "5": {
+    "nombre": "Neon Genesis Evangelion",
+    "genero": "Mecha",
+    "año": "1995",
+    "autor": "Yoshiyuki Sadamoto"
+  },
+  "6": {
+    "nombre": "One Piece",
+    "genero": "Shonen",
+    "año": "1997",
+    "autor": "Eiichiro Oda"
+  },
+  "7": {
+    "nombre": "Bleach",
+    "genero": "Shonen",
+    "año": "2001",
+    "autor": "Tite Kubo"
+  },
+  "8": {
+    "nombre": "Attack on Titan",
+    "genero": "Shonen",
+    "año": "2009",
+    "autor": "Hajime Isayama"
+  },
+  "9": {
+    "nombre": "Death Note",
+    "genero": "Mystery",
+    "año": "2003",
+    "autor": "Tsugumi Ohba"
+  },
+  "10": {
+    "nombre": "Fullmetal Alchemist",
+    "genero": "Shonen",
+    "año": "2001",
+    "autor": "Hiromu Arakawa"
+  },
+  "11": {
+    "nombre": "Cowboy Bebop",
+    "genero": "Sci-Fi",
+    "año": "1998",
+    "autor": "Shinichiro Watanabe"
+  },
+  "12": {
+    "nombre": "Hunter x Hunter",
+    "genero": "Shonen",
+    "año": "1998",
+    "autor": "Yoshihiro Togashi"
+  },
+  "13": {
+    "nombre": "Fairy Tail",
+    "genero": "Fantasy",
+    "año": "2006",
+    "autor": "Hiro Mashima"
+  },
+  "14": {
+    "nombre": "One Punch Man",
+    "genero": "Action",
+    "año": "2009",
+    "autor": "ONE"
+  },
+  "15": {
+    "nombre": "JoJo's Bizarre Adventure",
+    "genero": "Action",
+    "año": "1987",
+    "autor": "Hirohiko Araki"
+  },
+  "16": {
+    "nombre": "My Hero Academia",
+    "genero": "Shonen",
+    "año": "2014",
+    "autor": "Kohei Horikoshi"
+  },
+  "17": {
+    "nombre": "Demon Slayer",
+    "genero": "Shonen",
+    "año": "2016",
+    "autor": "Koyoharu Gotouge"
+  },
+  "18": {
+    "nombre": "Black Clover",
+    "genero": "Shonen",
+    "año": "2015",
+    "autor": "Yuki Tabata"
+  },
+  "19": {
+    "nombre": "Haikyu!!",
+    "genero": "Sports",
+    "año": "2012",
+    "autor": "Haruichi Furudate"
+  },
+  "20": {
+    "nombre": "Kimi no Na wa",
+    "genero": "Romance",
+    "año": "2016",
+    "autor": "Makoto Shinkai"
+  },
+  "21": {
+    "nombre": "Your Lie in April",
+    "genero": "Drama",
+    "año": "2011",
+    "autor": "Naoshi Arakawa"
+  },
+  "22": {
+    "nombre": "Tokyo Ghoul",
+    "genero": "Horror",
+    "año": "2011",
+    "autor": "Sui Ishida"
+  },
+  "23": {
+    "nombre": "Steins;Gate",
+    "genero": "Sci-Fi",
+    "año": "2009",
+    "autor": "Chiyomaru Shikura"
+  },
+  "24": {
+    "nombre": "Code Geass",
+    "genero": "Mecha",
+    "año": "2006",
+    "autor": "Goro Taniguchi"
+  },
+  "25": {
+    "nombre": "Gintama",
+    "genero": "Comedy",
+    "año": "2003",
+    "autor": "Hideaki Sorachi"
+  },
+  "26": {
+    "nombre": "The Promised Neverland",
+    "genero": "Mystery",
+    "año": "2016",
+    "autor": "Kaiu Shirai"
+  },
+  "27": {
+    "nombre": "Dragon Ball Z",
+    "genero": "Shonen",
+    "año": "1989",
+    "autor": "Akira Toriyama"
+  },
+  "28": {
+    "nombre": "Re:Zero",
+    "genero": "Isekai",
+    "año": "2014",
+    "autor": "Tappei Nagatsuki"
+  },
+  "29": {
+    "nombre": "Attack on Titan: Final Season",
+    "genero": "Shonen",
+    "año": "2020",
+    "autor": "Hajime Isayama"
+  },
+  "30": {
+    "nombre": "Jujutsu Kaisen",
+    "genero": "Supernatural",
+    "año": "2018",
+    "autor": "Gege Akutami"
+  }
+}
